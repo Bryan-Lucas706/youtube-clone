@@ -328,7 +328,7 @@ a {
 }
 
 .verificado::after {
-  content: "\f058";
+  content: "  ";
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   font-size: 0.8em;
@@ -452,6 +452,7 @@ a {
 }
 
 .info-video {
+  width: 100%;
   display: flex;
   flex-direction: column;
 }
