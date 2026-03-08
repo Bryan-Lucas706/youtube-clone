@@ -328,7 +328,7 @@ a {
 }
 
 .verificado::after {
-  content: "  ";
+  content: "\f058";
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   font-size: 0.8em;
